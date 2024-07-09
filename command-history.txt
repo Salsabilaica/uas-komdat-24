@@ -1,0 +1,22 @@
+    1  sudo apt install gh
+    2  gh login
+    3  gh auth login
+    4  mkdir latihan1
+    5  cd latihan1
+    6  code .
+    7  git --version
+    8  curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+    9  sudo apt install curl
+   10  source ~/.bashrc
+   11  nvm --version
+   12  nvm --v
+   13  nvm install v14.15.4
+   14  node -v
+   15  git clone https://github.com/misterpotabi/projek-uas-komdat uas-komdat-24
+   16  ls
+   17  cd uas-komdat-24
+   18  ls
+   19  code .
+   20  npm install
+   21  npm run start
+   22  history > command-history.txt
